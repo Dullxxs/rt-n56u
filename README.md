@@ -4,7 +4,7 @@
 
 # README #
 
-Welcome to the rt-n56u project
+Welcome to the rt-n56u project.
 
 This project aims to improve the rt-n56u and other supported devices on the software part, allowing power user to take full control over their hardware.
 This project was created in hope to be useful, but comes without warranty or support. Installing it will probably void your warranty. 
